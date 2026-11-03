@@ -699,4 +699,3 @@ NEXT_PUBLIC_VOICE_CHAT_STRATEGY 选项解释：
 ## Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=mtvpls/moontvplus&type=Date)](https://star-history.dera.page/#mtvpls/moontvplus&Date)
-
